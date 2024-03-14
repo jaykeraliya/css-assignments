@@ -1,0 +1,104 @@
+question 1. what are the benefits using css? 
+ans.advantages/benefits.
+->css is a way to define how to communicate with documents,images or you can say user give best styling to image,document in program with the help of css.
+->css give instructions to html to show better styling,formatting in website at user's end.
+->without css styling,designning isn't showing good in website.
+
+question 2. what are the disadvantages of css?
+ans.->different browser has showing different styling,formatting for css
+e.x.chrome,edge
+->differnt styling in different browsers may make confusion for user, program might have errors or not?
+->browser compatibility isn't good(means all browsers are not supportting all styles,formattings).
+
+question 3.what is the difference between css2 and css3?
+->in css3 user can use many font with the help of google fonts(arial,bold,italic)
+while in css2 only few fonts are used in while making codes with htnml,css.
+->css3 may offer more compatibility,stylings, formatting is easier compared to css2.
+->css3 offer many features as compare to css2 listed as under
+1.advanced animations,transitions
+2.opacity
+3.selectors
+4.mutiple background
+5.multiple column layouts
+6.word wrapping
+7.text shadowing
+8.mutiple corner
+9.font flexibility
+10.gradient
+->css3's 10 features aren't available in css2.
+->css2 didn't use more fonts for html code,program(limited fonts are available for css2).
+
+question 4.Name a few css style components
+ans->height,width,border,margin,padding,border radius,box shadow,hover etc.
+
+question 5.what do you understand by css opacity?
+ans->opacity rely on entire code and sometimes opacity have to given to particular numbers for change it's position 
+e.x.1,2,3,4,5
+all have by defult opacity 0
+if user say no.1's opacity is 1
+then it goes after no.5 cause opacity is change for only no.1
+
+question 6.how can the background color of an element can be changed?
+ans->first have to check where to change background color in element.
+->then user have to write styling for background color change for a particular element.
+->then background color is change for a particular element.
+
+question 7. how can image repetition of the backup can be controlled?
+ans.->image repettion have to controll by it's x,y direction in with background repeat.
+->background repeat is off then noo repettion of image done in output of html code,program.
+
+question 8. what is the use of background position property?
+ans.background position property is change image's position change in background(left top, left corner,left bottom,right top,right corner,right bottom,center top, %,%, %,px
+
+question 9. which property controls the image scroll in background?
+ans.
+
+
+question 10. why should background and color used as a separate properties?
+ans-> background color changing all content's color in background of image,card etc.
+->and color is changed for particular for e.x. box's color in css,button color,card's color etc.
+->both properties are used for different purposes and meanning of both properties are different.
+
+question 11. how to center block elements in css1?
+ans.-> block elements are come in center using text align property
+->user have to write text align in program when block elements aren't come center in html code,program.
+->e.x.text align:center.
+
+
+question 12.how to maintain the css specifications?
+->user can't maintain css specifications at his,her's end.
+->css specifications are mainatain by world wide web consortium(w3c)
+
+question 13.what are the ways to integrete a web page?
+ans.
+
+
+question 14.what is embedded style sheets?
+ans.
+
+question 15.what are the external style sheets?
+ans->external style sheets is use for giving styling of html code to the another file, it may give styling to 1 or more html codes in another file.
+->user have to give link for external style sheets in html code then user can give styling to html code.
+->e.x.<link rel="stylesheet" href="style.css">
+
+question 16. what are the advantages,disadvantages using external css?
+ans->advantages
+->user give good styling in this type of styling(external style sheets).
+->good styling,fomatting always attracting people to visit user's website.
+->good connection of internet is loading user's code,program faster in particular browser.
+
+disadvantages
+->if user have slow internet connection then external stle sheets not work well after change in program.
+->may take some ammount of storage more,takes time to load a particulur code at sometimes.
+->internet connection always matter when external css user have to use for program.
+
+question 17.what is the meanning of css selector?
+ans.css selectotrs are using for giving style in html code.
+->it will search html program line in which user have to give style.
+   
+question 18. what are the media types allowed by css?
+-> screen,print   
+
+question 19.what is rule set?
+ans->
+
